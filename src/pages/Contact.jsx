@@ -120,9 +120,13 @@ const Contact = () => {
         </h2>
 
         <p className="contact-text text-lg lg:text-2xl font-normal mt-5 w-[90%] opacity-70">
-          Got a project in mind? Let’s build something visually stunning and
-          insanely functional together. Whether it’s frontend magic or diving
-          into backend soon — I’m ready to bring ideas to life.
+          Looking to bring your ideas to life? Whether you need a freelance
+          developer, a creative partner for a project, or a dedicated teammate
+          for a full-time or part-time role — I’d love to connect! I’m
+          passionate about building clean, modern, and engaging digital
+          experiences that make a real impact. Let’s create something awesome
+          together! Drop me a message anytime — I’m always excited to
+          collaborate.
         </p>
 
         <div className="contact-info mt-14 space-y-6 text-2xl lg:text-3xl font-heading tracking-wide">

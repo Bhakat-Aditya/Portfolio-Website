@@ -12,7 +12,7 @@ const Services = () => {
 
       {/* Services List */}
       <div className="relative">
-        <div className="bg-black text-white pt-16 lg:pt-20 pb-[40rem] sticky top-4">
+        <div className="bg-[#001523] text-white pt-16 lg:pt-20 pb-[40rem] sticky top-4">
           <div className="main-container grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-12 items-start">
             {/* Left side */}
             <div className="flex gap-6 lg:gap-8">
@@ -35,7 +35,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="bg-[#E9E9F0] text-black pt-16 lg:pt-20 pb-[23rem] sticky top-1/3">
+        <div className="bg-[#00253e] text-white pt-16 lg:pt-20 pb-[23rem] sticky top-1/3">
           <div className="main-container grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-12 items-start">
             {/* Left side */}
             <div className="flex gap-6 lg:gap-8">
@@ -43,7 +43,7 @@ const Services = () => {
                 02
               </span>
               <h2 className="text-[8vw] md:text-6xl font-heading font-bold leading-[1]">
-                Photo Video <br /> Edits
+                Photo & Video <br /> Edits
               </h2>
             </div>
 
@@ -58,7 +58,7 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="bg-white text-black py-16 lg:py-20 sticky top-2/3">
+        <div className="bg-[#003a61] text-white py-16 lg:py-20 sticky top-2/3">
           <div className="main-container grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-12 items-start">
             {/* Left side */}
             <div className="flex gap-6 lg:gap-8">
