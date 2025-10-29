@@ -100,7 +100,7 @@ const Hero = () => {
 
         <GradientButton
           text="Let's Talk"
-          link="mailto:john@gmail.com"
+          link="mailto:bhakataditya0@gmail.com"
           className="gradient-btn"
         />
       </div>

@@ -4,7 +4,7 @@ import star from '../assets/images/star.svg'
 const Marquee = () => {
   return (
     <>
-      <div className="overflow-hidden bg-yellow-100 text-black pb-28 lg:pb-44">
+      <div className="overflow-hidden bg-yellow-100 text-black pb-10 lg:pb-5">
 
         {/* Row 1 */}
         <div className="whitespace-nowrap animate-marquee text-6xl lg:text-[7vw] font-heading font-semibold leading-[1] tracking-tight">

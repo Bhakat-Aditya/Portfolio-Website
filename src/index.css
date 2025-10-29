@@ -42,7 +42,7 @@
     content: "";
     position: absolute;
     inset: 0;
-    padding: 6px;
+    padding: 3px;
     border-radius: inherit;
     background: linear-gradient(90deg,
         #ff0066,

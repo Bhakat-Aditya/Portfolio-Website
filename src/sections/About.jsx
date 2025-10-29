@@ -22,7 +22,7 @@ const About = () => {
             stagger: 0.05,
             scrollTrigger: {
               trigger: aboutRef.current,
-              start: "top 70%",
+              start: "top 40%",
               end: "center center",
               scrub: 1,
             },
